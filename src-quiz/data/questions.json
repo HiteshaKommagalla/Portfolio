@@ -1,0 +1,884 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic_code": "MCA001",
+      "topic_name": "Logical Reasoning",
+      "question": "All roses are flowers. Some flowers fade quickly. Some roses fade quickly. Is this statement true or false?",
+      "options": [
+        {
+          "a": "True"
+        },
+        {
+          "b": "False"
+        },
+        {
+          "c": "Cannot be determined"
+        },
+        {
+          "d": "None of the above"
+        }
+      ],
+      "correct_ans": "a",
+      "marks": 1
+    },
+    {
+      "id": 2,
+      "topic_code": "MCA001",
+      "topic_name": "Logical Reasoning",
+      "question": "If all squares are rectangles and some rectangles are circles, then can some squares be circles?",
+      "options": [
+        {
+          "a": "Yes"
+        },
+        {
+          "b": "No"
+        },
+        {
+          "c": "It depends on the size of the shapes"
+        },
+        {
+          "d": "Cannot be determined"
+        }
+      ],
+      "correct_ans": "a",
+      "marks": 1
+    },
+    {
+      "id": 3,
+      "topic_code": "MCA001",
+      "topic_name": "Logical Reasoning",
+      "question": "A man is 25 years older than his son. In 10 years, he will be twice as old as his son. How old is the son?",
+      "options": [
+        {
+          "a": "10 years"
+        },
+        {
+          "b": "15 years"
+        },
+        {
+          "c": "20 years"
+        },
+        {
+          "d": "25 years"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 4,
+      "topic_code": "MCA001",
+      "topic_name": "Logical Reasoning",
+      "question": "If the second day of the week is two days after Monday, what day is it?",
+      "options": [
+        {
+          "a": "Wednesday"
+        },
+        {
+          "b": "Thursday"
+        },
+        {
+          "c": "Friday"
+        },
+        {
+          "d": "Tuesday"
+        }
+      ],
+      "correct_ans": "d",
+      "marks": 1
+    },
+    {
+      "id": 5,
+      "topic_code": "MCA001",
+      "topic_name": "Logical Reasoning",
+      "question": "Find the missing number: 2, 5, 10, 17, __, 37",
+      "options": [
+        {
+          "a": "22"
+        },
+        {
+          "b": "26"
+        },
+        {
+          "c": "30"
+        },
+        {
+          "d": "32"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 6,
+      "topic_code": "MCA002",
+      "topic_name": "Quantitative Aptitude",
+      "question": "What is the value of 25% of 200?",
+      "options": [
+        {
+          "a": "25"
+        },
+        {
+          "b": "40"
+        },
+        {
+          "c": "50"
+        },
+        {
+          "d": "60"
+        }
+      ],
+      "correct_ans": "c",
+      "marks": 1
+    },
+    {
+      "id": 7,
+      "topic_code": "MCA002",
+      "topic_name": "Quantitative Aptitude",
+      "question": "Solve for x: 5x - 10 = 0",
+      "options": [
+        {
+          "a": "1"
+        },
+        {
+          "b": "2"
+        },
+        {
+          "c": "3"
+        },
+        {
+          "d": "4"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 8,
+      "topic_code": "MCA002",
+      "topic_name": "Quantitative Aptitude",
+      "question": "What is the average of 12, 15, 20, 25, and 30?",
+      "options": [
+        {
+          "a": "20"
+        },
+        {
+          "b": "18"
+        },
+        {
+          "c": "22"
+        },
+        {
+          "d": "19"
+        }
+      ],
+      "correct_ans": "a",
+      "marks": 1
+    },
+    {
+      "id": 9,
+      "topic_code": "MCA002",
+      "topic_name": "Quantitative Aptitude",
+      "question": "If a car travels at 60 km/h for 2 hours, how far will it travel?",
+      "options": [
+        {
+          "a": "100 km"
+        },
+        {
+          "b": "120 km"
+        },
+        {
+          "c": "130 km"
+        },
+        {
+          "d": "150 km"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 10,
+      "topic_code": "MCA002",
+      "topic_name": "Quantitative Aptitude",
+      "question": "The perimeter of a rectangle is 40 cm. If the length is 12 cm, what is the breadth?",
+      "options": [
+        {
+          "a": "6 cm"
+        },
+        {
+          "b": "8 cm"
+        },
+        {
+          "c": "10 cm"
+        },
+        {
+          "d": "12 cm"
+        }
+      ],
+      "correct_ans": "a",
+      "marks": 1
+    },
+    {
+      "id": 11,
+      "topic_code": "MCA003",
+      "topic_name": "Mathematics",
+      "question": "What is the derivative of f(x) = x^2?",
+      "options": [
+        {
+          "a": "2x"
+        },
+        {
+          "b": "x"
+        },
+        {
+          "c": "x^2"
+        },
+        {
+          "d": "x^3"
+        }
+      ],
+      "correct_ans": "a",
+      "marks": 2
+    },
+    {
+      "id": 12,
+      "topic_code": "MCA003",
+      "topic_name": "Mathematics",
+      "question": "What is the integral of f(x) = x?",
+      "options": [
+        {
+          "a": "x^2/2 + C"
+        },
+        {
+          "b": "x^2 + C"
+        },
+        {
+          "c": "x + C"
+        },
+        {
+          "d": "2x + C"
+        }
+      ],
+      "correct_ans": "a",
+      "marks": 2
+    },
+    {
+      "id": 13,
+      "topic_code": "MCA003",
+      "topic_name": "Mathematics",
+      "question": "What is the value of pi to 2 decimal places?",
+      "options": [
+        {
+          "a": "3.12"
+        },
+        {
+          "b": "3.14"
+        },
+        {
+          "c": "3.16"
+        },
+        {
+          "d": "3.18"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 14,
+      "topic_code": "MCA003",
+      "topic_name": "Mathematics",
+      "question": "Solve for x: 2x + 3 = 7",
+      "options": [
+        {
+          "a": "1"
+        },
+        {
+          "b": "2"
+        },
+        {
+          "c": "3"
+        },
+        {
+          "d": "4"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 15,
+      "topic_code": "MCA003",
+      "topic_name": "Mathematics",
+      "question": "What is the sum of the first 100 natural numbers?",
+      "options": [
+        {
+          "a": "5050"
+        },
+        {
+          "b": "10000"
+        },
+        {
+          "c": "5000"
+        },
+        {
+          "d": "505"
+        }
+      ],
+      "correct_ans": "a",
+      "marks": 1
+    },
+    {
+      "id": 16,
+      "topic_code": "MCA004",
+      "topic_name": "Verbal Ability",
+      "question": "Choose the word that is opposite in meaning to 'Obscure':",
+      "options": [
+        {
+          "a": "Clear"
+        },
+        {
+          "b": "Ambiguous"
+        },
+        {
+          "c": "Vague"
+        },
+        {
+          "d": "Opaque"
+        }
+      ],
+      "correct_ans": "a",
+      "marks": 1
+    },
+    {
+      "id": 17,
+      "topic_code": "MCA004",
+      "topic_name": "Verbal Ability",
+      "question": "Fill in the blank: 'The news was __ and everyone was shocked.'",
+      "options": [
+        {
+          "a": "irrelevant"
+        },
+        {
+          "b": "sudden"
+        },
+        {
+          "c": "expected"
+        },
+        {
+          "d": "boring"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 18,
+      "topic_code": "MCA004",
+      "topic_name": "Verbal Ability",
+      "question": "What is the synonym of 'Efficient'?",
+      "options": [
+        {
+          "a": "Unproductive"
+        },
+        {
+          "b": "Capable"
+        },
+        {
+          "c": "Lazy"
+        },
+        {
+          "d": "Wasteful"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 19,
+      "topic_code": "MCA004",
+      "topic_name": "Verbal Ability",
+      "question": "Choose the correct meaning of the phrase 'Break the ice':",
+      "options": [
+        {
+          "a": "Start a conversation"
+        },
+        {
+          "b": "Break something"
+        },
+        {
+          "c": "Move quickly"
+        },
+        {
+          "d": "Create chaos"
+        }
+      ],
+      "correct_ans": "a",
+      "marks": 1
+    },
+    {
+      "id": 20,
+      "topic_code": "MCA004",
+      "topic_name": "Verbal Ability",
+      "question": "Which of the following is the correct plural form of 'Crisis'?",
+      "options": [
+        {
+          "a": "Crisis"
+        },
+        {
+          "b": "Crisises"
+        },
+        {
+          "c": "Crises"
+        },
+        {
+          "d": "Crisiseses"
+        }
+      ],
+      "correct_ans": "c",
+      "marks": 1
+    },
+    {
+      "id": 21,
+      "topic_code": "GRAD001",
+      "topic_name": "Logical Reasoning",
+      "question": "If the day after tomorrow is two days before Friday, what day is today?",
+      "options": [
+        {
+          "a": "Sunday"
+        },
+        {
+          "b": "Monday"
+        },
+        {
+          "c": "Tuesday"
+        },
+        {
+          "d": "Wednesday"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 22,
+      "topic_code": "GRAD001",
+      "topic_name": "Logical Reasoning",
+      "question": "All students in a class are either playing cricket or football. Some are playing cricket. Some students are not playing football. Which of the following is true?",
+      "options": [
+        {
+          "a": "All students are playing football"
+        },
+        {
+          "b": "Some students are not playing cricket"
+        },
+        {
+          "c": "Some students are playing both cricket and football"
+        },
+        {
+          "d": "None of the above"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 23,
+      "topic_code": "GRAD001",
+      "topic_name": "Logical Reasoning",
+      "question": "Which of the following is the next number in the series: 1, 4, 9, 16, __?",
+      "options": [
+        {
+          "a": "25"
+        },
+        {
+          "b": "30"
+        },
+        {
+          "c": "20"
+        },
+        {
+          "d": "22"
+        }
+      ],
+      "correct_ans": "a",
+      "marks": 1
+    },
+    {
+      "id": 24,
+      "topic_code": "GRAD001",
+      "topic_name": "Logical Reasoning",
+      "question": "If all squares are rectangles and some rectangles are circles, can some squares be circles?",
+      "options": [
+        {
+          "a": "Yes"
+        },
+        {
+          "b": "No"
+        },
+        {
+          "c": "Maybe"
+        },
+        {
+          "d": "Cannot be determined"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 25,
+      "topic_code": "GRAD001",
+      "topic_name": "Logical Reasoning",
+      "question": "If two pencils cost 40 cents, how much would 7 pencils cost?",
+      "options": [
+        {
+          "a": "70 cents"
+        },
+        {
+          "b": "1.40 dollars"
+        },
+        {
+          "c": "1.80 dollars"
+        },
+        {
+          "d": "None of the above"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 26,
+      "topic_code": "GRAD002",
+      "topic_name": "Quantitative Aptitude",
+      "question": "What is the value of 12% of 250?",
+      "options": [
+        {
+          "a": "25"
+        },
+        {
+          "b": "30"
+        },
+        {
+          "c": "35"
+        },
+        {
+          "d": "45"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 27,
+      "topic_code": "GRAD002",
+      "topic_name": "Quantitative Aptitude",
+      "question": "If 3x + 2 = 17, what is the value of x?",
+      "options": [
+        {
+          "a": "5"
+        },
+        {
+          "b": "4"
+        },
+        {
+          "c": "6"
+        },
+        {
+          "d": "3"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 28,
+      "topic_code": "GRAD002",
+      "topic_name": "Quantitative Aptitude",
+      "question": "A man buys a shirt for $50 and sells it for $60. What is his profit percentage?",
+      "options": [
+        {
+          "a": "15%"
+        },
+        {
+          "b": "20%"
+        },
+        {
+          "c": "25%"
+        },
+        {
+          "d": "30%"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 29,
+      "topic_code": "GRAD002",
+      "topic_name": "Quantitative Aptitude",
+      "question": "What is the average of the numbers: 5, 10, 15, 20, and 25?",
+      "options": [
+        {
+          "a": "10"
+        },
+        {
+          "b": "15"
+        },
+        {
+          "c": "20"
+        },
+        {
+          "d": "25"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 30,
+      "topic_code": "GRAD002",
+      "topic_name": "Quantitative Aptitude",
+      "question": "If a car travels at 60 km/h for 3 hours, how far will it travel?",
+      "options": [
+        {
+          "a": "120 km"
+        },
+        {
+          "b": "180 km"
+        },
+        {
+          "c": "200 km"
+        },
+        {
+          "d": "150 km"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 31,
+      "topic_code": "GRAD003",
+      "topic_name": "Verbal Ability",
+      "question": "Choose the word that is opposite in meaning to 'Efficient':",
+      "options": [
+        {
+          "a": "Effective"
+        },
+        {
+          "b": "Unproductive"
+        },
+        {
+          "c": "Active"
+        },
+        {
+          "d": "Competent"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 32,
+      "topic_code": "GRAD003",
+      "topic_name": "Verbal Ability",
+      "question": "Fill in the blank: 'The news was __ and everyone was shocked.'",
+      "options": [
+        {
+          "a": "expected"
+        },
+        {
+          "b": "irrelevant"
+        },
+        {
+          "c": "sudden"
+        },
+        {
+          "d": "obvious"
+        }
+      ],
+      "correct_ans": "c",
+      "marks": 1
+    },
+    {
+      "id": 33,
+      "topic_code": "GRAD003",
+      "topic_name": "Verbal Ability",
+      "question": "What is the synonym of 'Vast'?",
+      "options": [
+        {
+          "a": "Huge"
+        },
+        {
+          "b": "Tiny"
+        },
+        {
+          "c": "Limited"
+        },
+        {
+          "d": "Small"
+        }
+      ],
+      "correct_ans": "a",
+      "marks": 1
+    },
+    {
+      "id": 34,
+      "topic_code": "GRAD003",
+      "topic_name": "Verbal Ability",
+      "question": "Which of the following is the correct plural form of 'Crisis'?",
+      "options": [
+        {
+          "a": "Crisis"
+        },
+        {
+          "b": "Crises"
+        },
+        {
+          "c": "Crisises"
+        },
+        {
+          "d": "Crisiseses"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 35,
+      "topic_code": "GRAD003",
+      "topic_name": "Verbal Ability",
+      "question": "Choose the word that is most similar in meaning to 'Accomplish':",
+      "options": [
+        {
+          "a": "Fail"
+        },
+        {
+          "b": "Achieve"
+        },
+        {
+          "c": "Neglect"
+        },
+        {
+          "d": "Disrupt"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 36,
+      "topic_code": "GRAD004",
+      "topic_name": "General Knowledge",
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": [
+        {
+          "a": "Mars"
+        },
+        {
+          "b": "Venus"
+        },
+        {
+          "c": "Jupiter"
+        },
+        {
+          "d": "Saturn"
+        }
+      ],
+      "correct_ans": "a",
+      "marks": 1
+    },
+    {
+      "id": 37,
+      "topic_code": "GRAD004",
+      "topic_name": "General Knowledge",
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": [
+        {
+          "a": "Charles Dickens"
+        },
+        {
+          "b": "William Shakespeare"
+        },
+        {
+          "c": "Mark Twain"
+        },
+        {
+          "d": "Jane Austen"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 38,
+      "topic_code": "GRAD004",
+      "topic_name": "General Knowledge",
+      "question": "What is the capital city of Japan?",
+      "options": [
+        {
+          "a": "Seoul"
+        },
+        {
+          "b": "Tokyo"
+        },
+        {
+          "c": "Beijing"
+        },
+        {
+          "d": "Bangkok"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 39,
+      "topic_code": "GRAD004",
+      "topic_name": "General Knowledge",
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": [
+        {
+          "a": "China"
+        },
+        {
+          "b": "Japan"
+        },
+        {
+          "c": "South Korea"
+        },
+        {
+          "d": "India"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    },
+    {
+      "id": 40,
+      "topic_code": "GRAD004",
+      "topic_name": "General Knowledge",
+      "question": "Who is known as the father of modern physics?",
+      "options": [
+        {
+          "a": "Isaac Newton"
+        },
+        {
+          "b": "Albert Einstein"
+        },
+        {
+          "c": "Galileo Galilei"
+        },
+        {
+          "d": "Nikola Tesla"
+        }
+      ],
+      "correct_ans": "b",
+      "marks": 1
+    }
+  ]
+}

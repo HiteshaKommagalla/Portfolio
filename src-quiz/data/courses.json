@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "course_code": "grad01",
+    "course": "graduate",
+    "icon": "fa-brands fa-book"
+  },
+  {
+    "id": 2,
+    "course_code": "MCA01",
+    "course": "MCA_CET",
+    "icon": "fa-brands fa-laptop"
+  }
+]
